@@ -1,0 +1,1 @@
+In this Repo I'm going to use "A small LSTM model to predict next character". I'm using the data for training from this link "https://www.gutenberg.org/ebooks/11". 
